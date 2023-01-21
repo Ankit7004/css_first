@@ -1,0 +1,25 @@
+
+body {
+    background-color: beige;
+}
+
+* {
+    font-family: Verdana ;
+}
+
+.ttt {
+    background-color: blue;
+}
+.heading {
+    background-color: purple;
+}
+p {
+    background-color: red;
+}
+h1 {
+    background-color: brown;
+}
+#specialtitle {
+    color: yellow;
+    background-color: pink;
+}
